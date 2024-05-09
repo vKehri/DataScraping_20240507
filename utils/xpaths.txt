@@ -1,0 +1,5 @@
+/html/body/div[3]/div[2]/div/div[2]/div/div/div[3]/div/section[1]/div[2]/table
+//*[@id="reviewsummary"]/div/div/article/div[1]/table/tbody
+//*[@id="reviewsummary"]/div/div/div[3]/table[1]/tbody'
+//*[@id="reviewsummary"]/div/div/div[3]/article[1]/div[1]/table/tbody
+//*[@id="reviewsummary"]/div/div/div[3]/article[2]/div[1]/table/tbody
